@@ -2,3 +2,7 @@ form * {
     font-size: 80px;
     display: block;
 }
+
+form option {
+    font-size: 0.3em;
+}
