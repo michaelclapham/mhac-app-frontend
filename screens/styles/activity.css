@@ -1,0 +1,14 @@
+ ul{
+     padding-left:0px;
+ }
+ li{
+     display:block;
+ }
+ li:nth-child(){
+     background:blue;
+     font-size: 100px;
+ }
+ div {
+    font-size:large;
+}
+ 
