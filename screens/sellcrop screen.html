@@ -1,0 +1,76 @@
+<html>
+
+<head>
+    <title>SELL CROP SCREEN</title>
+    <script src="https://kit.fontawesome.com/9424979033.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./styles/mystyle.css">
+    <link rel="stylesheet" href="./styles/sellcrop.css">
+</head>
+
+<body>
+
+
+    <div id="toolbar">
+        <i class="fas fa-bars"></i>
+        <h1 class="screen-name">Sell Crop</h1>
+    </div>
+
+    <h1>The select element</h1>
+
+    <form>
+        <label for="crop">Which Crop?:</label>
+
+        <select id="crop">
+            <option value="Maize">Maize</option>
+            <option value="Beans">Beans</option>
+            <option value="Kales">Kales</option>
+            <option value="Butter_nuts">Butter nuts</option>
+            <option value="Lablab">Lablab</option>
+            <option value="Cabbage">Cabbage</option>
+        </select>
+
+
+
+        <label for="crop">Where was it sold?:</label>
+
+        <select id="crop">
+            <option value="Kitale-market">Kitale market</option>
+            <option value="Kiminini-market">Kiminini market</option>
+            <option value="Webuye-market">Webuye market</option>
+            <option value="Eldoret-market">Eldoret market</option>
+        </select>
+
+        <label for="When was it sold?">When was it sold?:</label>
+        <input type="date" id="Date of sold" name="Date of sold" value="2020-03-12">
+
+        <label for="quantity">Quantity sold (kg)?:</label>
+        <input id='quantity' type="number">
+
+
+        <label for="price">Price per kg (in KSH)?:</label>
+        <input id='price' type="number">
+
+        <label for="who">Who sold?:</label>
+        <select id="who">
+            <option value="Patrick">Patrick</option>
+            <option value="Andrew">Andrew</option>
+        </select>
+
+    </form>
+    <button onclick="calculateRevenue()">Calculate Revenue</button>
+    <p>Revenue:</p>
+    <p id="revenue"></p>
+
+    <script>
+        function calculateRevenue() {
+            var price = document.getElementById("price").value;
+            var quantity = document.getElementById("quantity").value;
+            var revenue = price * quantity;
+
+            document.getElementById("revenue").innerText = revenue + "  Kenya Shillings";
+        }
+    </script>
+
+</body>
+
+</html>
