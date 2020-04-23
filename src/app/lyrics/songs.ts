@@ -455,6 +455,7 @@ export const Baba_La_Gumbala = {
         lyrics: [
             {
                 "lyric": "Bella mama           Bella mama eeeeeeeeeeh ",
+                "personNumber": "0",
                 "startTimeMinute": "0",
                 "startTimeSecond": "0",
                 "endTimeMinute": "0",

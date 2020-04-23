@@ -11,6 +11,10 @@ import { GreetingsAdviceComponent } from './greetings-advice/greetings-advice.co
 
 import { ZXingScannerModule } from '@zxing/ngx-scanner';
 import { LyricsComponent } from './lyrics/lyrics.component';
+import { CovidTipsComponent } from './covid-tips/covid-tips.component';
+import { SongListComponent } from './song-list/song-list.component';
+import { ActivitiesComponent } from './activities/activities.component';
+import { CakeComponent } from './cake/cake.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +23,11 @@ import { LyricsComponent } from './lyrics/lyrics.component';
     HandWashingComponent,
     ScanQrComponent,
     GreetingsAdviceComponent,
-    LyricsComponent
+    LyricsComponent,
+    CovidTipsComponent,
+    SongListComponent,
+    ActivitiesComponent,
+    CakeComponent
   ],
   imports: [
     BrowserModule,

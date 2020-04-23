@@ -1,0 +1,15 @@
+p {
+    font-size: 1em;
+}
+
+.screen-name {
+    font-size: 80px;
+}
+form * {
+    font-size: 80px;
+    display: block;
+    margin: 20px;
+}
+.h{
+    font-size: 80px;
+}

@@ -3,6 +3,19 @@ form * {
     display: block;
 }
 
+ul{
+    padding-left:15px;
+    font-size: 50px;
+}
+
+li{
+    display:block;
+}
+
+li:nth-child(2n-1){
+    background-color: rgb(0, 255, 115);
+}
+
 form option {
     font-size: 0.3em;
 }

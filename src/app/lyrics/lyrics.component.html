@@ -1,12 +1,37 @@
 <ion-content padding class="lyrics-content">
-<h1 class="title">🎵 Now Playing: {{currentSong.songTitle}}</h1>
-<audio #audioElem src="assets/audio/Bella Mama.mp3" autoplay="true" (timeupdate)="onAudioTimeUpdate(audioElem)"></audio>
-<ul class="lyrics-list">
-    <li *ngFor="let line of currentLyricLines">
-        {{line}}
-    </li>
-</ul>
-<div class="button-container">
-    <ion-button shape="round" (click)="toggleAudio()"><ion-icon name="{{paused ? 'play' : 'pause'}}"></ion-icon></ion-button>
-</div>
+    <h1 class="title">🎵 Now Playing: {{currentSong.songTitle}}</h1>
+    <audio #audioElem [src]="songAudioURL" autoplay="true"
+        (timeupdate)="onAudioTimeUpdate(audioElem)"></audio>
+    <div class="button-container">
+        <ion-button shape="round" (click)="toggleAudio()">
+            <ion-icon name="{{paused ? 'play' : 'pause'}}"></ion-icon>
+        </ion-button>
+    </div>
+    <div *ngIf="hasInstructions" class="lyrics-list">
+        <div class="line">Instructions:</div>
+        <div class="line" *ngFor="let line of lyricLinesInstructions">
+            {{line}}
+        </div>
+    </div>
+    <div class="lyric-section">
+        <div class="blob-container">
+            <img src="assets/images/body3.svg" class="body">
+            <img src="assets/images/arm1.svg" class="arm">
+            <img src="assets/images/mouth1.svg" class="mouth">
+        </div>
+        <div class="lyrics-list" [style]="'color:' + lyricPerson1Color">
+            <div class="line" *ngFor="let line of lyricLinesPerson1">{{line}}</div>
+        </div>
+    </div>
+    <div *ngIf="hasTwoPeople" class="lyric-section">
+        <div class="blob-container blob-container2">
+            <img src="assets/images/body3.svg" class="body">
+            <img src="assets/images/body2.svg" class="toddler">
+            <img src="assets/images/arm1.svg" class="arm">
+            <img src="assets/images/mouth1.svg" class="mouth">
+        </div>
+        <div class="lyrics-list" [style]="'color:' + lyricPerson2Color">
+            <div class="line" *ngFor="let line of lyricLinesPerson2">{{line}}</div>
+        </div>
+    </div>
 </ion-content>

@@ -4,6 +4,9 @@ import { HomeComponent } from './home/home.component';
 import { HandWashingComponent } from './hand-washing/hand-washing.component';
 import { ScanQrComponent } from './scan-qr/scan-qr.component';
 import { LyricsComponent } from './lyrics/lyrics.component';
+import { SongListComponent } from './song-list/song-list.component';
+import { ActivitiesComponent } from './activities/activities.component';
+import { CakeComponent } from './cake/cake.component';
 
 
 const routes: Routes = [
@@ -30,8 +33,20 @@ const routes: Routes = [
     component: ScanQrComponent
   },
   {
-    path: 'lyrics',
+    path: 'activities',
+    component: ActivitiesComponent
+  },
+  {
+    path: 'songs',
+    component: SongListComponent
+  },
+  {
+    path: 'song/:id',
     component: LyricsComponent
+  },
+  {
+    path: 'cake',
+    component: CakeComponent
   }
 ];
 
