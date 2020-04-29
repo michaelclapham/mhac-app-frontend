@@ -14,7 +14,7 @@ export const Ay_Gazoomba: Song = {
         {
             "lyric": "AY GAZOOMBA\nZOOMBA\nZOOMBA\nAY GAZOOMBA\nZOOMBA\nHEY!\n",
             "startTimeMinute": "0",
-            "startTimeSecond": "5",
+            "startTimeSecond": "4",
             "endTimeMinute": "0",
             "endTimeSecond": "9"
         },
