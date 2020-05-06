@@ -11,41 +11,41 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
             "startTimeMinute": "0",
             "startTimeSecond": "0",
             "endTimeMinute": "0",
-            "endTimeSecond": "3.5"
+            "endTimeSecond": "3"
         },
         {
             "lyric": "Ay Gazoomba",
             "person": "1",
             "isInstructions": "TRUE",
             "startTimeMinute": "0",
-            "startTimeSecond": "3.5",
+            "startTimeSecond": "3",
             "endTimeMinute": "0",
-            "endTimeSecond":"4",
+            "endTimeSecond":"5",
         },
         {
             "lyric": "Ay Gazoomba",
             "person": "2",
             "isInstructions": "TRUE",
             "startTimeMinute": "0",
-            "startTimeSecond": "4",
+            "startTimeSecond": "5",
             "endTimeMinute": "0",
-            "endTimeSecond": "6"
+            "endTimeSecond": "7"
         },
         {
             "lyric": "Zoomba Zoomba",
             "person": "1",
             "isInstructions": "TRUE",
             "startTimeMinute": "0",
-            "startTimeSecond": "6",
+            "startTimeSecond": "7",
             "endTimeMinute": "0",
-            "endTimeSecond": "8"
+            "endTimeSecond": "9"
         },
         {
             "lyric": "Zoomba Zoomba",
             "person": "2",
             "isInstructions": "TRUE",
             "startTimeMinute": "0",
-            "startTimeSecond": "8",
+            "startTimeSecond": "9",
             "endTimeMinute": "0",
             "endTimeSecond": "10"
         },
@@ -329,7 +329,7 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
             "endTimeSecond": "43"
         },
         {
-            "lyric": "THREE Add fun actions like standing in a tight circle  with shoulders next to each other and alternating touching your own knees with the knees of the person to your right with your own knees to the person to your left ",
+            "lyric": "THREE Add fun actions like standing in a tight circle  with shoulders next to each other and alternating touching your own knees with the knees of the person to your right with your own knees to the person to your left\n\n\n ",
             "person": "1",
             "isInstructions": "TRUE",
             "startTimeMinute": "1",
@@ -347,7 +347,7 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
             "endTimeSecond": "8"
         },
         {
-            "lyric": " Ay Gazoomba Zoomba Zoomba Ay Gazoomba Zoomba Eeeh ",
+            "lyric": "\nAy Gazoomba Zoomba Zoomba Ay Gazoomba Zoomba Eeeh ",
             "person": "1",
             "startTimeMinute": "2",
             "startTimeSecond": "8",
