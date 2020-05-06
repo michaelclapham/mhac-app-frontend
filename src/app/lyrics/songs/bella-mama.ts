@@ -9,19 +9,19 @@ export const Bella_Mama: Song = {
             "startTimeMinute": "0",
             "startTimeSecond": "0",
             "endTimeMinute": "0",
-            "endTimeSecond": "2"
+            "endTimeSecond": "5"
         },
         {
             "lyric": "Bella mama            Bella mama eeeeeeeeeeh         ",
             "startTimeMinute": "0",
             "startTimeSecond": "2",
             "endTimeMinute": "0",
-            "endTimeSecond": "6"
+            "endTimeSecond": "7"
         },
         {
             "lyric": "Bella mama           Bella mama eeeeeeeeeeh ",
             "startTimeMinute": "0",
-            "startTimeSecond": "6",
+            "startTimeSecond": "7",
             "endTimeMinute": "0",
             "endTimeSecond": "9"
         },
