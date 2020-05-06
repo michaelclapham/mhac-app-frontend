@@ -237,7 +237,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "55"
         },
         {
-            "lyric": "Gullli Gulli                          Ram Sam Sam",
+            "lyric": "Gullli Gulli Gulli                         Ram Sam Sam",
             "person": "2",
             "startTimeMinute": "0",
             "startTimeSecond": "55",
@@ -245,7 +245,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "57"
         },
         {
-            "lyric": "Gulli Gulli                     Ram Sam Sam",
+            "lyric": "Gulli Gulli Gulli                    Ram Sam Sam",
             "person": "1",
             "startTimeMinute": "0",
             "startTimeSecond": "57",
@@ -253,7 +253,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "0"
         },
         {
-            "lyric": "Oh Ram Sam Sam            Gulli Gulli Gulli              Ram Sam Sam",
+            "lyric": "Oh Ram Sam Sam    Oh Ram Sam Sam        Gulli Gulli Gulli              Ram Sam Sam",
             "person": "2",
             "startTimeMinute": "1",
             "startTimeSecond": "0",
@@ -261,7 +261,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "6"
         },
         {
-            "lyric": "Oh Ram Sam Sam       Gulli Gulli Gulli          Ram Sam Sam",
+            "lyric": "Oh Ram Sam Sam   Oh Ram Sam Sam    Gulli Gulli Gulli          Ram Sam Sam",
             "person": "1",
             "startTimeMinute": "1",
             "startTimeSecond": "6",
@@ -269,7 +269,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "12"
         },
         {
-            "lyric": "Oh Ram Sam Sam            Gulli Gulli Gulli              Ram Sam Sam",
+            "lyric": "Oh Ram Sam Sam     Oh Ram Sam Sam       Gulli Gulli Gulli              Ram Sam Sam",
             "person": "2",
             "startTimeMinute": "1",
             "startTimeSecond": "12",
@@ -277,7 +277,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "18"
         },
         {
-            "lyric": "Oh Ram Sam Sam       Gulli Gulli Gulli          Ram Sam Sam",
+            "lyric": "Oh Ram Sam Sam   Oh Ram Sam Sam    Gulli Gulli Gulli          Ram Sam Sam",
             "person": "1",
             "startTimeMinute": "1",
             "startTimeSecond": "18",
@@ -285,7 +285,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "23"
         },
         {
-            "lyric": "Ooh Rafi                            Ooh Rafi                           Gulli Gulli Gulli              Ram Sam San",
+            "lyric": "Ooh Rafi                            Ooh Rafi                           Gulli Gulli Gulli              Ram Sam Sam",
             "person": "2",
             "startTimeMinute": "1",
             "startTimeSecond": "23",
@@ -293,7 +293,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "29"
         },
         {
-            "lyric": "Ooh Rafi                          Ooh Rafi                       Gulli Gulli Gulli          Ram Sam San",
+            "lyric": "Ooh Rafi                          Ooh Rafi                       Gulli Gulli Gulli          Ram Sam Sam",
             "person": "1",
             "startTimeMinute": "1",
             "startTimeSecond": "29",
@@ -341,7 +341,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "55"
         },
         {
-            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam San",
+            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "1",
             "startTimeSecond": "56",
@@ -349,7 +349,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "1"
         },
         {
-            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam San",
+            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "2",
             "startTimeSecond": "1",
@@ -357,7 +357,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "8"
         },
         {
-            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam San",
+            "lyric": "Ooh Rafi   Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "2",
             "startTimeSecond": "8",
@@ -365,23 +365,23 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "14"
         },
         {
-            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam San",
+            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "2",
             "startTimeSecond": "14",
             "endTimeMinute": "2",
-            "endTimeSecond": "20"
+            "endTimeSecond": "21"
         },
         {
-            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam San",
+            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "2",
-            "startTimeSecond": "20",
+            "startTimeSecond": "21",
             "endTimeMinute": "2",
             "endTimeSecond": "25"
         },
         {
-            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam San",
+            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "2",
             "startTimeSecond": "25",
@@ -389,7 +389,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "32"
         },
         {
-            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam San",
+            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "2",
             "startTimeSecond": "32",
@@ -397,7 +397,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "37"
         },
         {
-            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam San",
+            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "2",
             "startTimeSecond": "37",
@@ -405,7 +405,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "42"
         },
         {
-            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam San",
+            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "2",
             "startTimeSecond": "42",
@@ -413,7 +413,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "46"
         },
         {
-            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam San",
+            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "2",
             "startTimeSecond": "46",
@@ -421,7 +421,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "50"
         },
         {
-            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam San",
+            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "2",
             "startTimeSecond": "51",
@@ -429,7 +429,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "55"
         },
         {
-            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam San",
+            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "2",
             "startTimeSecond": "55",
@@ -437,7 +437,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "0"
         },
         {
-            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam San",
+            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "3",
             "startTimeSecond": "0",
@@ -445,7 +445,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "3"
         },
         {
-            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam San",
+            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "3",
             "startTimeSecond": "3",
@@ -453,7 +453,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "7"
         },
         {
-            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam San",
+            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "3",
             "startTimeSecond": "7",
@@ -461,7 +461,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "10"
         },
         {
-            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam San",
+            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "3",
             "startTimeSecond": "10",
@@ -469,7 +469,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "14"
         },
         {
-            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam San",
+            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "3",
             "startTimeSecond": "14",
@@ -477,23 +477,23 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "16"
         },
         {
-            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam San",
+            "lyric": "Oh Ram Sam Sam                      Oh Ram Sam Sam                     Gulli Gulli Gulli                           Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "3",
             "startTimeSecond": "16",
             "endTimeMinute": "3",
-            "endTimeSecond": "19"
+            "endTimeSecond": "20"
         },
         {
-            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam San",
+            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "3",
-            "startTimeSecond": "19",
+            "startTimeSecond": "20",
             "endTimeMinute": "3",
             "endTimeSecond": "22"
         },
         {
-            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam San",
+            "lyric": "Ooh Rafi                                      Ooh Rafi                                      Gulli Gulli Gulli                        Ram Sam Sam",
             "person": "1,2",
             "startTimeMinute": "3",
             "startTimeSecond": "22",

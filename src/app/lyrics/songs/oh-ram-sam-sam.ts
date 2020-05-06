@@ -54,7 +54,7 @@ export const Oh_Ram_Sam_Sam: Song = {
             "endTimeSecond": "31"
         },
         {
-            "lyric": "Oh Ram Sam San\nOh Ram Sam Sam \nGuli Guli Guli Guli \nRam Sam Sam",
+            "lyric": "Oh Ram Sam Sam\nOh Ram Sam Sam \nGuli Guli Guli Guli \nRam Sam Sam",
             "startTimeMinute": "0",
             "startTimeSecond": "31",
             "endTimeMinute": "0",
@@ -75,7 +75,7 @@ export const Oh_Ram_Sam_Sam: Song = {
             "endTimeSecond": "47"
         },
         {
-            "lyric": "Oh Ram Sam San \nOh Ram Sam Sam\nGuli Guli Guli Guli\nRam Sam Sam",
+            "lyric": "Oh Ram Sam Sam \nOh Ram Sam Sam\nGuli Guli Guli Guli\nRam Sam Sam",
             "startTimeMinute": "0",
             "startTimeSecond": "47",
             "endTimeMinute": "0",
@@ -84,7 +84,7 @@ export const Oh_Ram_Sam_Sam: Song = {
         {
             "lyric": "Oh Ram Sam San\nOh Ram Sam Sam \nGuli Guli Guli Guli \nRam Sam Sam",
             "startTimeMinute": "0",
-            "startTimeSecond": "51",
+            "startTimeSecond": "53",
             "endTimeMinute": "0",
             "endTimeSecond": "56"
         },
@@ -114,7 +114,7 @@ export const Oh_Ram_Sam_Sam: Song = {
             "startTimeMinute": "1",
             "startTimeSecond": "8",
             "endTimeMinute": "1",
-            "endTimeSecond": "12"
+            "endTimeSecond": "11"
         },
         {
             "lyric": "Ooh Rafi Ooh Rafi\nGuli Guli Guli Guli\nRam Sam Sam",
@@ -147,7 +147,7 @@ export const Oh_Ram_Sam_Sam: Song = {
         {
             "lyric": "Ooh Rafi Ooh Rafi\nGuli Guli Guli Guli\nRam Sam Sam",
             "startTimeMinute": "1",
-            "startTimeSecond": "24",
+            "startTimeSecond": "25",
             "endTimeMinute": "1",
             "endTimeSecond": "27"
         },
@@ -156,7 +156,7 @@ export const Oh_Ram_Sam_Sam: Song = {
             "startTimeMinute": "1",
             "startTimeSecond": "27",
             "endTimeMinute": "1",
-            "endTimeSecond": "30"
+            "endTimeSecond": "31"
         },
         {
             "lyric": "Ooh Ram sam Sam\nSaaaaaaaaaaaaaaaam",
