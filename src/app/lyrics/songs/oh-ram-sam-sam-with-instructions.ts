@@ -5,7 +5,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
     audioURL: "assets/audio/Oh_Ram_Sam_Sam_Instructions.mp3",
     lyrics: [
         {
-            "lyric": " Playing with the words and the sound.",
+            "lyric": "One Play with the words and the sounds.",
             "person": "1",
             "startTimeMinute": "0",
             "startTimeSecond": "0",
@@ -133,7 +133,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "25"
         },
         {
-            "lyric": "You sing they sing",
+            "lyric": "Two You sing they sing",
             "person": "1",
             "startTimeMinute": "0",
             "startTimeSecond": "25",
@@ -173,7 +173,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "36"
         },
         {
-            "lyric": "Gulli Gulli Gulli               Ram Sam Sam",
+            "lyric": "Gulli Gulli Gulli Gulli               Ram Sam Sam",
             "person": "2",
             "startTimeMinute": "0",
             "startTimeSecond": "36",
@@ -181,7 +181,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "39"
         },
         {
-            "lyric": "Gulli Gulli Gullli         Ram Sam Sam",
+            "lyric": "Gulli Gulli Gullli Gulli         Ram Sam Sam",
             "person": "1",
             "startTimeMinute": "0",
             "startTimeSecond": "39",
@@ -189,7 +189,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "41"
         },
         {
-            "lyric": "Gulli Gulli Gulli               Ram Sam Sam",
+            "lyric": "Gulli Gulli Gulli Gulli              Ram Sam Sam",
             "person": "2",
             "startTimeMinute": "0",
             "startTimeSecond": "41",
@@ -197,7 +197,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "44"
         },
         {
-            "lyric": "Gulli Gulli Gulli          Ram Sam Sam",
+            "lyric": "Gulli Gulli Gulli Gulli         Ram Sam Sam",
             "person": "1",
             "startTimeMinute": "0",
             "startTimeSecond": "44",
@@ -237,7 +237,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "55"
         },
         {
-            "lyric": "Gullli Gulli Gulli                         Ram Sam Sam",
+            "lyric": "Gullli Gulli Gulli Gulli                        Ram Sam Sam",
             "person": "2",
             "startTimeMinute": "0",
             "startTimeSecond": "55",
@@ -245,7 +245,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "57"
         },
         {
-            "lyric": "Gulli Gulli Gulli                    Ram Sam Sam",
+            "lyric": "Gulli Gulli Gulli Gulli                   Ram Sam Sam",
             "person": "1",
             "startTimeMinute": "0",
             "startTimeSecond": "57",
@@ -261,7 +261,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "6"
         },
         {
-            "lyric": "Oh Ram Sam Sam   Oh Ram Sam Sam    Gulli Gulli Gulli          Ram Sam Sam",
+            "lyric": "Oh Ram Sam Sam   Oh Ram Sam Sam    Gulli Gulli Gulli Gulli         Ram Sam Sam",
             "person": "1",
             "startTimeMinute": "1",
             "startTimeSecond": "6",
@@ -277,7 +277,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "18"
         },
         {
-            "lyric": "Oh Ram Sam Sam   Oh Ram Sam Sam    Gulli Gulli Gulli          Ram Sam Sam",
+            "lyric": "Oh Ram Sam Sam   Oh Ram Sam Sam    Gulli Gulli Gulli Gulli         Ram Sam Sam",
             "person": "1",
             "startTimeMinute": "1",
             "startTimeSecond": "18",
@@ -301,7 +301,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "34"
         },
         {
-            "lyric": "Add Fun Actions",
+            "lyric": "Three Add Fun Actions",
             "person": "1",
             "startTimeMinute": "1",
             "startTimeSecond": "36",
