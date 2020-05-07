@@ -16,7 +16,7 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
         {
             "lyric": "Ay Gazoomba",
             "person": "1",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "3",
             "endTimeMinute": "0",
@@ -25,7 +25,7 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
         {
             "lyric": "Ay Gazoomba",
             "person": "2",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "5",
             "endTimeMinute": "0",
@@ -34,7 +34,7 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
         {
             "lyric": "Zoomba Zoomba",
             "person": "1",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "7",
             "endTimeMinute": "0",
@@ -43,7 +43,7 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
         {
             "lyric": "Zoomba Zoomba",
             "person": "2",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "9",
             "endTimeMinute": "0",
@@ -52,7 +52,7 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
         {
             "lyric": "Ay Gazoomba",
             "person": "1",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "10",
             "endTimeMinute": "0",
@@ -61,43 +61,43 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
         {
             "lyric": "Ay Gazoomba",
             "person": "2",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "12",
+            "endTimeMinute": "0",
+            "endTimeSecond": "13"
+        },
+        {
+            "lyric": "Zoomba Hey",
+            "person": "1",
+            "isInstructions": "FALSE",
+            "startTimeMinute": "0",
+            "startTimeSecond": "13",
             "endTimeMinute": "0",
             "endTimeSecond": "14"
         },
         {
-            "lyric": "Zoomba Eeeeh",
-            "person": "1",
-            "isInstructions": "TRUE",
+            "lyric": "Zoomba Hey",
+            "person": "2",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "14",
             "endTimeMinute": "0",
-            "endTimeSecond": "16"
-        },
-        {
-            "lyric": "Zoomba Eeeeh",
-            "person": "2",
-            "isInstructions": "TRUE",
-            "startTimeMinute": "0",
-            "startTimeSecond": "16",
-            "endTimeMinute": "0",
-            "endTimeSecond": "18"
+            "endTimeSecond": "14"
         },
         {
             "lyric": "Ay Gazoomba zoomba zoomba ",
             "person": "1",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
-            "startTimeSecond": "18",
+            "startTimeSecond": "14",
             "endTimeMinute": "0",
             "endTimeSecond": "20"
         },
         {
             "lyric": "Ay Gazoomba zoomba zoomba",
             "person": "2",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "20",
             "endTimeMinute": "0",
@@ -106,7 +106,7 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
         {
             "lyric": "Ay Gazoomba zoomba  Eeeeh  ",
             "person": "1",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "20",
             "endTimeMinute": "0",
@@ -115,7 +115,7 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
         {
             "lyric": "Ay Gazoomba zoomba Eeeeh",
             "person": "2",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "22",
             "endTimeMinute": "0",
@@ -146,14 +146,14 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
             "startTimeMinute": "0",
             "startTimeSecond": "33",
             "endTimeMinute": "0",
-            "endTimeSecond": "36"
+            "endTimeSecond": "37"
         },
         {
             "lyric": "Ay Gazoomba zoomba Eeeeh",
             "person": "1",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
-            "startTimeSecond": "36",
+            "startTimeSecond": "37",
             "endTimeMinute": "0",
             "endTimeSecond": "38"
         },
@@ -320,7 +320,7 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
             "endTimeSecond": "35"
         },
         {
-            "lyric": "Ahy Gazooomba Zooomba Zooomba Ay Gazooomba  Zooomba Eee",
+            "lyric": "Ay Gazooomba Zooomba Zooomba Ay Gazooomba  Zooomba Eee",
             "person": "2",
             "isInstructions": "FALSE",
             "startTimeMinute": "1",
