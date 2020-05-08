@@ -16,7 +16,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": " Bella",
             "person": "2",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "3",
             "endTimeMinute": "0",
@@ -25,7 +25,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": "Bella",
             "person": "1",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "4",
             "endTimeMinute": "0",
@@ -34,7 +34,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": "Mama",
             "person": "2",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "5",
             "endTimeMinute": "0",
@@ -43,7 +43,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": "Mama",
             "person": "1",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "6",
             "endTimeMinute": "0",
@@ -52,7 +52,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": "Bella",
             "person": "2",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "7",
             "endTimeMinute": "0",
@@ -61,7 +61,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": "Bella",
             "person": "1",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "8",
             "endTimeMinute": "0",
@@ -70,7 +70,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": "Mama",
             "person": "2",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "9",
             "endTimeMinute": "0",
@@ -79,7 +79,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": "Mama",
             "person": "1",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "10",
             "endTimeMinute": "0",
@@ -88,7 +88,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": "Bella mama",
             "person": "2",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "11",
             "endTimeMinute": "0",
@@ -97,7 +97,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": "Bella mama",
             "person": "1",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "12",
             "endTimeMinute": "0",
@@ -106,7 +106,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": "Bella mama Bella mama",
             "person": "2",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "13",
             "endTimeMinute": "0",
@@ -115,7 +115,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": "Bella mama Bella mama",
             "person": "1",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "15",
             "endTimeMinute": "0",
@@ -142,7 +142,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": "Bella mama",
             "person": "2",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "21",
             "endTimeMinute": "0",
@@ -151,7 +151,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": "Bella mama",
             "person": "1",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "23",
             "endTimeMinute": "0",
@@ -160,7 +160,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": "heeeeeey",
             "person": "2",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "24",
             "endTimeMinute": "0",
@@ -169,7 +169,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": "heeeeeey",
             "person": "1",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "25",
             "endTimeMinute": "0",
@@ -239,7 +239,7 @@ export const Bella_Mama_Instructions: Song = {
             "endTimeSecond": "17"
         },
         {
-            "lyric": "Split the group into four",
+            "lyric": "Split the group into two",
             "person": "1",
             "isInstructions": "TRUE",
             "startTimeMinute": "1",
@@ -248,7 +248,7 @@ export const Bella_Mama_Instructions: Song = {
             "endTimeSecond": "23"
         },
         {
-            "lyric": " sing all together",
+            "lyric": " four sing all together",
             "person": "1",
             "isInstructions": "TRUE",
             "startTimeMinute": "1",
