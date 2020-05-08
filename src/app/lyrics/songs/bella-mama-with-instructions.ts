@@ -124,7 +124,7 @@ export const Bella_Mama_Instructions: Song = {
         {
             "lyric": "Bella mama heeeeeey",
             "person": "2",
-            "isInstructions": "TRUE",
+            "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "17",
             "endTimeMinute": "0",
