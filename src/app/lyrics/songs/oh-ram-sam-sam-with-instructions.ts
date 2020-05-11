@@ -134,6 +134,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
         },
         {
             "lyric": "Two You sing they sing",
+```add the word Instruction: before the instruction is said
             "person": "1",
             "startTimeMinute": "0",
             "startTimeSecond": "25",
