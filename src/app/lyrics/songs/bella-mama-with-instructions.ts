@@ -5,7 +5,7 @@ export const Bella_Mama_Instructions: Song = {
     audioURL: "assets/audio/Bella_Mama_Instructions.mp3",
     lyrics: [
         {
-            "lyric": "One: Play with the words and sound.",
+            "lyric": "One: Play with the words and sounds.",
             "person": "1",
             "isInstructions": "TRUE",
             "startTimeMinute": "0",
@@ -176,7 +176,7 @@ export const Bella_Mama_Instructions: Song = {
             "endTimeSecond": "26"
         },
         {
-            "lyric": "You sing they sing",
+            "lyric": "Two: You sing they sing",
             "person": "1",
             "isInstructions": "TRUE",
             "startTimeMinute": "0",
@@ -212,7 +212,7 @@ export const Bella_Mama_Instructions: Song = {
             "endTimeSecond": "49"
         },
         {
-            "lyric": "Bella mama\n             Bella mama\n           heeeeeey",
+            "lyric": "Bella mama\n             Bella mama\n           heeeeeeeey",
             "person": "1",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
@@ -221,7 +221,7 @@ export const Bella_Mama_Instructions: Song = {
             "endTimeSecond": "53"
         },
         {
-            "lyric": "Bella mama\n\n            Bella mama\n\n Bella mama\n            Bella mama\n           Bella mama\n             Bella mama\n                eeeeeh",
+            "lyric": "Bella mama\n\n            Bella mama\n\n Bella mama\n            Bella mama\n           Bella mama\n             Bella mama\n                heeeeeeey ",
             "person": "2",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
@@ -230,7 +230,7 @@ export const Bella_Mama_Instructions: Song = {
             "endTimeSecond": "4"
         },
         {
-            "lyric": "Bella mama\n\n            Bella mama\n\n Bella mama\n            Bella mama\n           Bella mama\n             Bella mama\n                eeeeeh",
+            "lyric": "Bella mama\n\n            Bella mama\n\n Bella mama\n            Bella mama\n           Bella mama\n             Bella mama\n                heeeeeeey ",
             "person": "1",
             "isInstructions": "FALSE",
             "startTimeMinute": "1",
@@ -239,7 +239,7 @@ export const Bella_Mama_Instructions: Song = {
             "endTimeSecond": "17"
         },
         {
-            "lyric": "Split the group into two",
+            "lyric": "Three: Split the group in two",
             "person": "1",
             "isInstructions": "TRUE",
             "startTimeMinute": "1",
@@ -248,7 +248,7 @@ export const Bella_Mama_Instructions: Song = {
             "endTimeSecond": "23"
         },
         {
-            "lyric": " four sing all together",
+            "lyric": " Four: Sing all together",
             "person": "1",
             "isInstructions": "TRUE",
             "startTimeMinute": "1",
@@ -275,7 +275,7 @@ export const Bella_Mama_Instructions: Song = {
             "endTimeSecond": "34"
         },
         {
-            "lyric": "Bella mama\n                    Bella mama\n         h eeeeeeey",
+            "lyric": "Bella mama\n                    Bella mama\n         heeeeeeey",
             "person": "2",
             "isInstructions": "FALSE",
             "startTimeMinute": "1",
