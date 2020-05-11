@@ -5,7 +5,7 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
     audioURL: "assets/audio/Ay_Ga_Zoomba_Instructions.mp3",
     lyrics: [
         {
-            "lyric": "Play with the words and sounds ",
+            "lyric": "One: Play with the words and sounds ",
             "person": "1",
             "isInstructions": "TRUE",
             "startTimeMinute": "0",
@@ -122,7 +122,7 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
             "endTimeSecond": "23"
         },
         {
-            "lyric": "Two You Sing They Sing",
+            "lyric": "Two: You Sing They Sing",
             "person": "1",
             "isInstructions": "TRUE",
             "startTimeMinute": "0",
@@ -329,7 +329,7 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
             "endTimeSecond": "43"
         },
         {
-            "lyric": "THREE Add fun actions like standing in a tight circle  with shoulders next to each other and alternating touching your own knees with the knees of the person to your right with your own knees to the person to your left\n\n\n ",
+            "lyric": "Three: Add fun actions like standing in a tight circle  with shoulders next to each other and alternating touching your own knees with the knees of the person to your right with your own knees to the person to your left\n\n\n ",
             "person": "1",
             "isInstructions": "TRUE",
             "startTimeMinute": "1",
@@ -338,7 +338,7 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
             "endTimeSecond": "6"
         },
         {
-            "lyric": "SING ALL TOGETHER",
+            "lyric": "Four: Sing all together",
             "person": "1",
             "isInstructions": "TRUE",
             "startTimeMinute": "2",
