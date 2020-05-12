@@ -128,7 +128,7 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
             "person": "1",
             "isInstructions": "TRUE",
             "startTimeMinute": "0",
-            "startTimeSecond": "27.9",
+            "startTimeSecond": "27.5",
             "endTimeMinute": "0",
             "endTimeSecond": "30"
         },
@@ -205,7 +205,7 @@ export const Ay_Ga_Zoomba_Instructions: Song = {
             "endTimeSecond": "51"
         },
         {
-            "lyric": "Ay Gazooomba ZooombaZooomba ",
+            "lyric": "Ay Gazooomba Zooomba Zooomba ",
             "person": "1",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
