@@ -13,16 +13,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeMinute": "0",
             "endTimeSecond": "3"
         },
-        {
-            "lyric": "Oh Ram Sam Sam",
-            "person": "2",
-            "isInstructions": "FALSE",
-            "startTimeMinute": "0",
-            "startTimeSecond": "3",
-            "endTimeMinute": "0",
-            "endTimeSecond": "5"
-        },
-        {
+		        {
             "lyric": "Oh Ram Sam Sam",
             "person": "1",
             "isInstructions": "FALSE",
@@ -31,48 +22,66 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeMinute": "0",
             "endTimeSecond": "7"
         },
+		{
+            "lyric": "",
+            "person": "2",
+            "isInstructions": "FALSE",
+            "startTimeMinute": "0",
+            "startTimeSecond": "0",
+            "endTimeMinute": "0",
+            "endTimeSecond": "6.5"
+        },
+        {
+            "lyric": "Oh Ram Sam Sam",
+            "person": "2",
+            "isInstructions": "FALSE",
+            "startTimeMinute": "0",
+            "startTimeSecond": "6.5",
+            "endTimeMinute": "0",
+            "endTimeSecond": "9.4"
+        },
         {
             "lyric": "Oh Ram",
             "person": "2",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
-            "startTimeSecond": "7",
+            "startTimeSecond": "9.5",
             "endTimeMinute": "0",
-            "endTimeSecond": "8"
+            "endTimeSecond": "11"
         },
-        {
-            "lyric": "Ram Sam Sam",
+		 {
+            "lyric": "Oh Ram",
             "person": "1",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
-            "startTimeSecond": "9",
+            "startTimeSecond": "8.5",
             "endTimeMinute": "0",
-            "endTimeSecond": "10"
+            "endTimeSecond": "11.8"
         },
         {
             "lyric": "Sam Sam",
             "person": "1",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
-            "startTimeSecond": "10",
+            "startTimeSecond": "10.6",
             "endTimeMinute": "0",
-            "endTimeSecond": "12"
+            "endTimeSecond": "12.4"
         },
-        {
-            "lyric": "Gulli Gulli Gulli Gulli",
+		 {
+            "lyric": "Sam Sam",
             "person": "2",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
-            "startTimeSecond": "12",
+            "startTimeSecond": "11.9",
             "endTimeMinute": "0",
-            "endTimeSecond": "13"
+            "endTimeSecond": "14"
         },
         {
             "lyric": "Gulli Gulli Gulli Gulli",
             "person": "1",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
-            "startTimeSecond": "13",
+            "startTimeSecond": "12.5",
             "endTimeMinute": "0",
             "endTimeSecond": "14"
         },
@@ -86,22 +95,31 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "15"
         },
         {
-            "lyric": "Gulli Gullli Gulli Gulli",
+            "lyric": "Gulli Gulli Gulli Gulli",
             "person": "1",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
             "startTimeSecond": "15",
             "endTimeMinute": "0",
-            "endTimeSecond": "16"
+            "endTimeSecond": "17.9"
+        },
+		       {
+            "lyric": "Gulli Gulli Gulli Gulli",
+            "person": "2",
+            "isInstructions": "FALSE",
+            "startTimeMinute": "0",
+            "startTimeSecond": "16",
+            "endTimeMinute": "0",
+            "endTimeSecond": "19"
         },
         {
             "lyric": "Oh Ram Sam Sam",
             "person": "2",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
-            "startTimeSecond": "16",
+            "startTimeSecond": "19",
             "endTimeMinute": "0",
-            "endTimeSecond": "18"
+            "endTimeSecond": "21"
         },
         {
             "lyric": "Oh Ram Sam Sam",
@@ -113,7 +131,7 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "20"
         },
         {
-            "lyric": "Gulli Gulli Gulli Gulli",
+            "lyric": "Gulli Gulli",
             "person": "1",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
@@ -121,8 +139,8 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeMinute": "0",
             "endTimeSecond": "21"
         },
-        {
-            "lyric": "Ram Sam Sam",
+		{
+            "lyric": "Gulli Gulli",
             "person": "2",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
@@ -131,27 +149,25 @@ export const Oh_Ram_Sam_Sam_Instructions: Song = {
             "endTimeSecond": "23"
         },
         {
-            "lyric": "Gulli Gulli Gulli Gulli",
+            "lyric": "Ram Sam Sam",
             "person": "1",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
-            "startTimeSecond": "23",
+            "startTimeSecond": "21",
             "endTimeMinute": "0",
-            "endTimeSecond": "24"
+            "endTimeSecond": "25"
         },
         {
             "lyric": "Ram Sam Sam",
             "person": "2",
             "isInstructions": "FALSE",
             "startTimeMinute": "0",
-            "startTimeSecond": "24",
+            "startTimeSecond": "23",
             "endTimeMinute": "0",
             "endTimeSecond": "25"
         },
         {
             "lyric": "Two:You sing they sing",
-            "lyric": "Two You sing they sing",
-```add the word Instruction: before the instruction is said
             "person": "1",
             "isInstructions": "TRUE",
             "startTimeMinute": "0",
